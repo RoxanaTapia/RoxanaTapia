@@ -18,10 +18,8 @@ LinkedIn: [linkedin.com/in/roxana-tapia](https://www.linkedin.com/in/roxana-tapi
 
 - Live: [receipt-intelligence.roxanatapia.dev](https://receipt-intelligence.roxanatapia.dev/try/website)
 - Code: [receipt-intelligence-demo](https://github.com/RoxanaTapia/receipt-intelligence-demo)
-<!-- After the backends go public, add:
 - API: [receipt-intelligence-api](https://github.com/RoxanaTapia/receipt-intelligence-api)
 - Workflows: [receipt-intelligence-n8n](https://github.com/RoxanaTapia/receipt-intelligence-n8n)
--->
 
 **Maple Street Front Desk.** A chat assistant for Maple Street Plumbing, a fictional plumbing business. It answers from the business's own pages, tells someone with an urgent problem to call, and never invents a price.
 
